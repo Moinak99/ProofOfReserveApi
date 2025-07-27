@@ -43,15 +43,12 @@ Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\ProofOfReserveApi.deps.json
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\ProofOfReserveApi.runtimeconfig.json
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\ProofOfReserveApi.dll
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\ProofOfReserveApi.pdb
-Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.csproj.AssemblyReference.cache
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\rpswa.dswa.cache.json
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.GeneratedMSBuildEditorConfig.editorconfig
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.AssemblyInfoInputs.cache
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.AssemblyInfo.cs
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.csproj.CoreCompileInputs.cache
-Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.MvcApplicationPartsAssemblyInfo.cs
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.MvcApplicationPartsAssemblyInfo.cache
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\rjimswa.dswa.cache.json
 Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
@@ -72,3 +69,4 @@ Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\MerkleTreeLibrary.runtimeconfig.json
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\MerkleTreeLibrary.exe
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\MerkleTreeLibrary.dll
 Z:\c#\ProofOfReserveApi\bin\Debug\net9.0\MerkleTreeLibrary.pdb
+Z:\c#\ProofOfReserveApi\obj\Debug\net9.0\ProofOfReserveApi.sourcelink.json

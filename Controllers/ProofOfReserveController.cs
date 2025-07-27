@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using ProofOfReserveApi.Models;
 using MerkleTreeLib;
+using System.Linq;
 
 namespace ProofOfReserveApi.Controllers
 {
