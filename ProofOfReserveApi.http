@@ -1,0 +1,6 @@
+@ProofOfReserveApi_HostAddress = http://localhost:5087
+
+GET {{ProofOfReserveApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
